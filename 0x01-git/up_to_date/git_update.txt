@@ -1,1 +1,1 @@
-git pull, git merge origin/master
+mkdir up_to_date
